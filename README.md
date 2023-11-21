@@ -1,5 +1,5 @@
-# Sobre mim
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/97803941?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" align="right">
+<img src="https://images.weserv.nl/?url=media.discordapp.net/attachments/1059687202789019678/1176555226199761047/vinnyyz_galaxy_pixel_art_106b7947-f9cd-4f70-acdf-9172ee1991e9.png&h=200&w=200&fit=cover&mask=circle&maxage=7d" align="right">
+
 <p align="left">
   Olá, sou Vinícius Resende, um entusiasta da programação com experiência em Python e JavaScript. Trabalho com ferramentas como Node.js, Express, Next.js, React, PySide e WordPress. Minha jornada inclui projetos independentes, refletindo meu compromisso com o aprendizado constante.
 
