@@ -1,23 +1,27 @@
-<img src="https://images.weserv.nl/?url=media.discordapp.net/attachments/1059687202789019678/1176555226199761047/vinnyyz_galaxy_pixel_art_106b7947-f9cd-4f70-acdf-9172ee1991e9.png&h=200&w=200&fit=cover&mask=circle&maxage=7d" align="right">
+<h1 align='center'>Hi, I'm Viny</h1>
+<h3 align='center'>Full stack developer</h3>
 
-<p align="left">
-  Olá, sou Vinícius Resende, um entusiasta da programação com experiência em Python e JavaScript. Trabalho com ferramentas como Node.js, Express, Next.js, React, PySide e WordPress. Minha jornada inclui projetos independentes, refletindo meu compromisso com o aprendizado constante.
+<img src='https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png' alt='Imagem de pc <3' height=250px align='right' />
 
-  Embora esteja começando minha jornada profissional, minha paixão por projetos independentes destaca meu compromisso com o aprendizado constante. Estou animado para contribuir e crescer como desenvolvedor.
+### About me:
+- 📘 Always learning new things.
+
+- 💻 Looking for more experience in **Node.js** and **MySQL**.
+
+- ✉ Contato: <a>viniciusvresendeo@gmail.com</a>.
+
+<p align='left'>
+  Each endeavor to enhance our skills is a brushstroke on the canvas of self-improvement, painting a masterpiece of growth and unlocking the boundless potential within.
 </p>
 
+### My skills:
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40px" height="40px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40px" height="40px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40px" height="40px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40px" height="40px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="40px" height="40px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40px" height="40px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40px" height="40px">
-</p>
-
-&nbsp;
-<p align="center">
-  <a href="mailto:viniciusvresendeo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40px" width="auto"></a>
-  <a href="https://wa.me/+5532991586092" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40px" width="auto"></a>
 </p>
