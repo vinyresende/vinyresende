@@ -4,9 +4,9 @@
 <img src='https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png' alt='Imagem de pc <3' height=250px align='right' />
 
 ### About me:
-- 📘 Always learning new things.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
-- 💻 Looking for more experience in **Node.js** and **MySQL**.
+- 📘 Sempre aprendendo coisas novas.
 
 - ✉ Contato: <a>viniciusvresendeo@gmail.com</a>.
 
