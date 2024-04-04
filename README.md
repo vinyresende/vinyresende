@@ -3,7 +3,7 @@
 
 <img src='https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png' alt='Imagem de pc <3' height=250px align='right' />
 
-### About me:
+### Sobre mim:
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
 - 📘 Sempre aprendendo coisas novas.
