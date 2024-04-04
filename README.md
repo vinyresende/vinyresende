@@ -14,7 +14,7 @@
   Each endeavor to enhance our skills is a brushstroke on the canvas of self-improvement, painting a masterpiece of growth and unlocking the boundless potential within.
 </p>
 
-### My skills:
+### Minhas habilidades:
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40px" height="40px">
