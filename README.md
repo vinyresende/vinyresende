@@ -17,6 +17,7 @@
 ### Minhas habilidades:
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40px" height="40px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40px" height="40px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40px" height="40px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40px" height="40px">
